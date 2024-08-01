@@ -1,0 +1,16 @@
+2024-05-21 13:30:04,988 - credita - INFO - credita, seed=1
+2024-05-21 13:30:22,256 - credita - INFO - credita, seed=1
+2024-05-21 13:30:22,262 - credita - INFO - MCAR miss_rate = 50.0%
+2024-05-21 13:30:22,263 - credita - INFO - n_samples = 690, n_fea = 14, BATch_size=345, windows_size = 345
+2024-05-21 13:31:28,855 - credita - INFO - credita, seed=1
+2024-05-21 13:31:28,858 - credita - INFO - MCAR miss_rate = 50.0%
+2024-05-21 13:31:28,859 - credita - INFO - n_samples = 690, n_fea = 14, BATch_size=345, windows_size = 345
+2024-05-21 13:33:25,011 - credita - INFO - credita, seed=1
+2024-05-21 13:33:25,015 - credita - INFO - MCAR miss_rate = 50.0%
+2024-05-21 13:33:25,016 - credita - INFO - n_samples = 690, n_fea = 14, BATch_size=345, windows_size = 345
+2024-05-21 13:35:32,818 - credita - INFO - credita, seed=1
+2024-05-21 13:35:32,822 - credita - INFO - MCAR miss_rate = 50.0%
+2024-05-21 13:35:32,822 - credita - INFO - n_samples = 690, n_fea = 14, BATch_size=345, windows_size = 345
+2024-05-21 13:36:24,212 - credita - INFO - credita, seed=1
+2024-05-21 13:36:24,215 - credita - INFO - MCAR miss_rate = 50.0%
+2024-05-21 13:36:24,216 - credita - INFO - n_samples = 690, n_fea = 14, BATch_size=345, windows_size = 345

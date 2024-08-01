@@ -1,0 +1,15 @@
+2024-05-21 13:38:07,369 - npha - INFO - npha, seed=1
+2024-05-21 13:38:07,374 - npha - INFO - MCAR miss_rate = 50.0%
+2024-05-21 13:38:07,375 - npha - INFO - n_samples = 714, n_fea = 14, BATch_size=357, windows_size = 357
+2024-05-21 13:39:29,467 - npha - INFO - npha, seed=1
+2024-05-21 13:39:29,472 - npha - INFO - MCAR miss_rate = 50.0%
+2024-05-21 13:39:29,472 - npha - INFO - n_samples = 714, n_fea = 14, BATch_size=357, windows_size = 357
+2024-05-21 13:40:58,075 - npha - INFO - npha, seed=1
+2024-05-21 13:40:58,079 - npha - INFO - MCAR miss_rate = 50.0%
+2024-05-21 13:40:58,080 - npha - INFO - n_samples = 714, n_fea = 14, BATch_size=357, windows_size = 357
+2024-05-21 13:43:48,811 - npha - INFO - npha, seed=1
+2024-05-21 13:43:48,821 - npha - INFO - MCAR miss_rate = 50.0%
+2024-05-21 13:43:48,822 - npha - INFO - n_samples = 714, n_fea = 14, BATch_size=357, windows_size = 357
+2024-05-21 13:49:08,851 - npha - INFO - npha, seed=1
+2024-05-21 13:49:08,856 - npha - INFO - MCAR miss_rate = 50.0%
+2024-05-21 13:49:08,857 - npha - INFO - n_samples = 714, n_fea = 14, BATch_size=357, windows_size = 357
